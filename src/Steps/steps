@@ -1,0 +1,4 @@
+Styling
+...........
+i)Inline :To style an element with the inline style attribute, the value must be a JavaScript object:
+ii)external :You can write your CSS styling in a separate file, just save the file with the .css file extension
